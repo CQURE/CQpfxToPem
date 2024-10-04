@@ -27,7 +27,7 @@ As well it is possible to use [PSPKI module](https://github.com/PKISolutions/PSP
 If you haven't already, clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/CQpfxToPemConverter.git
+git clone https://github.com/CQURE/CQpfxToPemConverter.git
 cd CQpfxToPemConverter
 ```
 
